@@ -11,7 +11,7 @@
 
    
 - 🔭 I’m currently working on consulting and content around Cloud 
-- 💬 Ask me about Kubernetes, cloud-native, DevOps, Terraform, public speaking, and collaborating with the world!
+- 💬 Ask me about Kubernetes, cloud-native, DevOps, Terraform, Ansible, and collaborating with the world!
 - 📫 How to reach me: Twitter: @BhRagheb or email: ragheb.benhamoda@gmail.com
 
 </p>
