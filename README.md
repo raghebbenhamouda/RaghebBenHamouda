@@ -6,7 +6,7 @@
 
 <div>
  <p>
- Ragheb Ben Hamoudais a DevOps and Cloud Engineer with a strong interest in the fields of DevOps and Cloud Computing. He successfully completed the AWS Solution Architect Associate Certificate. Now he works as a Cloud engineer specializing in serverless architecture and studying for the Terraform Associate and the Certified Kubernetes Administrator(CKA) Certifications .
+ Ragheb Ben Hamouda is a DevOps and Cloud Engineer with a strong interest in the fields of DevOps and Cloud Computing. He successfully completed the AWS Solution Architect Associate Certificate. Now he works as a Cloud engineer specializing in serverless architecture and studying for the Terraform Associate and the Certified Kubernetes Administrator(CKA) Certifications .
 
    
 - 🔭 I’m currently working on all things consulting, writing, and content around Kubernetes 
@@ -35,7 +35,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ragheb-ben-hamouda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ragheb-ben-hamouda-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ragheb-ben-hamouda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@raghebbenhamouda-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ragheb.benhamoda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ragheb.benhamoda@gmail.com?style=flat&logo=gmail"></a>
 </p>
 
