@@ -10,7 +10,7 @@
  He successfully completed the AWS Solution Architect Associate Certificate. Now he works as a Cloud engineer specializing in serverless architecture and studying for the Terraform Associate and the Certified Kubernetes Administrator(CKA) Certifications.
 
    
-- 🔭 I’m currently working on consulting and content around Cloud 
+- 🔭 I’m currently working on consulting and content around Cloud & DevOps
 - 💬 Ask me about Kubernetes, cloud-native, DevOps, Terraform, Ansible, and collaborating with the world!
 - 📫 How to reach me: Twitter: @BhRagheb or email: ragheb.benhamoda@gmail.com
 
