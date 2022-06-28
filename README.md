@@ -38,6 +38,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ragheb-ben-hamouda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@raghebbenhamouda-blue?style=flat&logo=linkedin"></a>
+ <a href="https://twitter.com/BhRagheb" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/BhRagheb?style=social"></a>
 <a href="mailto:ragheb.benhamoda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ragheb.benhamoda@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
