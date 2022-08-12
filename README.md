@@ -7,7 +7,7 @@
 <div>
  <p>
  Ragheb Ben Hamouda is a DevOps and Cloud Consultant with a strong interest in the fields of DevOps and Cloud Computing.  <br />
- He successfully completed the `AWS Solution Architect Associate` and the `Certified Kubernetes Administrator(CKA)` Certifications. Now he works as a Cloud engineer specializing in microservices architecture and studying for the Terraform Associate Certificate.
+ He successfully completed the AWS Solution Architect Associate and the Certified Kubernetes Administrator(CKA) Certifications. Now he works as a Cloud engineer specializing in microservices architecture and studying for the Terraform Associate Certificate.
 
    
 - 🔭 I’m currently working on consulting and content around Cloud & DevOps
